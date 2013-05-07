@@ -23,5 +23,3 @@ Please read js/class.main.js or run index.html
      * @method setBackgroundColor change the background color
      * @method setProgressColor change the progress color
      * @method setTextSize change the text size
-
-This file was modified by IntelliJ IDEA 12.0.4 for binding GitHub repository
