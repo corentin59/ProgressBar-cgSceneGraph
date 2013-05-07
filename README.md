@@ -1,4 +1,6 @@
-## cgSceneGraph-ProgressBar-Example
+## cgSceneGraph-ProgressBar
+
+A custom progress bar for cgSceneGraph framework : <http://gwennaelbuchet.github.io/cgSceneGraph/>
 
 ###### License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
