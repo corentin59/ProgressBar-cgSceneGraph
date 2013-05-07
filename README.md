@@ -4,7 +4,7 @@
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
 ###### Progress Bar example :
-Please read js/class.main.js or run index.html
+Please read js/class.main.js or run index.html : <http://corentin59.github.io/ProgressBar-cgSceneGraph/index.html>
 
 ###### Progress Bar parameters :
 
